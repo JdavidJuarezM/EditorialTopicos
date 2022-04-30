@@ -7,10 +7,7 @@ package vista;
 
 import editoriala.ManPublica;
 
-/**
- *
- * @author areli
- */
+
 public class Datos extends javax.swing.JFrame {
     ManPublica objMP;
     /**

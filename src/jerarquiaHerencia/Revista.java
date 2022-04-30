@@ -5,10 +5,7 @@
  */
 package jerarquiaHerencia;
 
-/**
- *
- * @author areli
- */
+
 public class Revista extends Publicaciones implements Periodicidad {
     private String ISSN;
     private int numero;

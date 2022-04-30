@@ -15,10 +15,7 @@ import vista.tablaLibros;
 import vista.tablaPeriodicos;
 import vista.tablaRevista;
 
-/**
- *
- * @author areli
- */
+
 public class ManPublica {
 
     static ArrayList<Publicaciones> Arrpublica = new ArrayList<Publicaciones>();

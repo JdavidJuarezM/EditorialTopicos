@@ -5,10 +5,7 @@
  */
 package vista;
 
-/**
- *
- * @author areli
- */
+
 public class Bienvenida extends javax.swing.JFrame {
 
     /**

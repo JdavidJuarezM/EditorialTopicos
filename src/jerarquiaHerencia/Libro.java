@@ -5,10 +5,7 @@
  */
 package jerarquiaHerencia;
 
-/**
- *
- * @author areli
- */
+
 public class Libro extends Publicaciones{
     private String ISBN;
     private String autor;

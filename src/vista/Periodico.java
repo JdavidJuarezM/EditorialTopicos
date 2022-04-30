@@ -6,10 +6,7 @@ package vista;
 
 import editoriala.ManPublica;
 
-/**
- *
- * @author josed
- */
+
 public class Periodico extends javax.swing.JFrame {
 
     ManPublica objMP;

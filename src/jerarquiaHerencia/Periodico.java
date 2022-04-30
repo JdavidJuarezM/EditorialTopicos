@@ -5,10 +5,7 @@
  */
 package jerarquiaHerencia;
 
-/**
- *
- * @author areli
- */
+
 public class Periodico extends Publicaciones implements Periodicidad
 {
     private String editor;

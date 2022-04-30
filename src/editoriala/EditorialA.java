@@ -7,10 +7,7 @@ package editoriala;
 
 import vista.Bienvenida;
 
-/**
- *
- * @author areli
- */
+
 public class EditorialA {
 
     /**

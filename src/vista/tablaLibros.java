@@ -6,10 +6,7 @@ package vista;
 
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author josed
- */
+
 public class tablaLibros extends javax.swing.JFrame {
 
     /**

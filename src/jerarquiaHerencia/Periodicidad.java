@@ -5,10 +5,7 @@
  */
 package jerarquiaHerencia;
 
-/**
- *
- * @author areli
- */
+
 public interface Periodicidad {
     String periodo = "Semanal";
     
